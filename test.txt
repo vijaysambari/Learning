@@ -1,1 +1,3 @@
 Let's start learning.
+
+data structure and algorithem and compitative programming.
